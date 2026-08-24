@@ -7,11 +7,17 @@ Fifth-year Computer Engineering student at Instituto Tecnológico de Costa Rica 
 
 ## Tech Stack
 **Programming Languages:** C, C++, Python, Java, Assembly, HTML
+
 **Programming Paradigms:** Racket, Prolog
+
 **Hardware Description Languages:** SystemVerilog
+
 **Hardware & Simulation:** Quartus Prime, Arduino IDE
+
 **Software & Build Systems:** CMake, Make, GNU Toolchain, GitHub
+
 **Environments & DevOps:** Docker, Microsoft Azure
+
 **Operating Systems & RTOS:** Ubuntu (Linux), FreeRTOS
 
 ## Academic Projects
